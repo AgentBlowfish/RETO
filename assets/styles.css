@@ -1,0 +1,13 @@
+.my-tab .tab-title {
+    font-weight: bold;  /* Make the label bold */
+    font-size: 15em;  /* Increase the font size */
+    color: red;  /* Change the color to red */
+    background-color: yellow;  /* Add a yellow background color */
+}
+
+.my-tab1 .tab-title {
+    font-weight: bold;  /* Make the label bold */
+    font-size: 15em;  /* Increase the font size */
+    color: blue;  /* Change the color to blue */
+    background-color: yellow;  /* Add a yellow background color */
+}
